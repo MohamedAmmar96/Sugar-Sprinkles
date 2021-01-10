@@ -314,7 +314,7 @@
                     margin-top: 5px;
                 }
                 .two .footer-heading:after {
-                    bottom: -10px;
+                    display: none;
                 }
                 .footer-heading .footer-link::after {
                     content: "\e874";
@@ -688,7 +688,7 @@
                     margin-top: 5px;
                 }
                 .two .footer-heading:after {
-                    bottom: -10px;
+                    display: none;
                 }
                 .footer-heading .footer-link::after {
                     content: "\e874";
